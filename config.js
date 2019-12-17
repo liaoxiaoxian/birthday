@@ -24,6 +24,6 @@ var config = {
         cake_fadein: "点它--->蛋糕",
         light_candle: "点它-->蜡烛",
         wish_message: "生日快乐",
-        story: "GOOK LUCK ！",
+        story: "A MESSAGE for YOU！请往下看",
     }
 };
